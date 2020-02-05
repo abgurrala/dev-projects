@@ -1,2 +1,1 @@
-# dev-projects
-sample projects
+# DevOpsDemos
